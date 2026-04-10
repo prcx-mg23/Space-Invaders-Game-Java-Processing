@@ -2,7 +2,7 @@
 
 Ce projet est une réinterprétation du célèbre jeu d'arcade **Space Invaders**, réalisée en Java via l'environnement **Processing**. Le joueur contrôle un vaisseau spatial et doit éliminer des vagues d'envahisseurs tout en évitant leurs tirs.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prcx-mg23/Space-Invaders-Game-Java-Processing/blob/main/demo/img-play.png" width="600">
+  <img src="https://raw.githubusercontent.com/prcx-mg23/Space-Invaders-Game-Java-Processing/blob/main/demo/img-play.png">
 </p>
 ##  Comment jouer ?
 - **ENTRER** : Lancer le jeu depuis le menu principal.
